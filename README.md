@@ -85,6 +85,7 @@ Note you can run like 2-3 desktops over a cheap DigitalOcean/Linode like VPS.
 ####http://bmullan.wordpress.com/
 ####https://github.com/rogaha/docker-desktop
 ####https://github.com/tutumcloud/tutum-ubuntu
+####https://github.com/paimpozhil/DockerX2go
 ####https://github.com/kirkins/DockerX2go
 
 #### Docker.io && x2go.org
