@@ -20,7 +20,7 @@ more coming
 ### How to run a desktop on Docker ?
 
 ```
-git clone https://github.com/kirkins/DockerX2go.git 
+git clone https://github.com/deiteq/DockerX2go.git 
 cd centos  ## or whatever
 docker build -t [yourimagename] .
 CID=$(docker run -p 2222:22 -t -d [yourimagename])
@@ -35,11 +35,11 @@ note down the root/dockerx passwords.
 
 Please see README under these for more specific information
 
-https://github.com/kirkins/DockerX2go/tree/master/xubuntu
+https://github.com/deiteq/DockerX2go/tree/master/xubuntu
 
-https://github.com/kirkins/DockerX2go/tree/master/centos
+https://github.com/deiteq/DockerX2go/tree/master/centos
 
-https://github.com/kirkins/DockerX2go/tree/master/lxde
+https://github.com/deiteq/DockerX2go/tree/master/lxde
 
 ### How to run/connect to server with a Client?
 
@@ -85,5 +85,6 @@ Note you can run like 2-3 desktops over a cheap DigitalOcean/Linode like VPS.
 ####http://bmullan.wordpress.com/
 ####https://github.com/rogaha/docker-desktop
 ####https://github.com/tutumcloud/tutum-ubuntu
+####https://github.com/kirkins/DockerX2go
 
 #### Docker.io && x2go.org
